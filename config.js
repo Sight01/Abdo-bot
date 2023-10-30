@@ -42,14 +42,14 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NOUR BOT - 2023'
-global.bott = 'Nour md'
-global.nomorown = '212605784394'
+global.me = 'ABDO BOT - 2023'
+global.bott = 'Abdo md'
+global.nomorown = '212684246810'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\https://instagram.com/knight_1k?igshid=MzNlNGNkZWQ4Mg==
+global.wait = '```「▰▰▰▱▱▱\instagram.com/chakirabdennacer==
 global.eror = '```404 ᴇʀʀᴏʀ```'
 
 global.rpg = {
